@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  min-height: 80vh;
+  /* width: 100vw; */
+  margin-top: 5vh;
+
+
+}
+main {
+  min-height: 80vh;
+  padding-top: 6vh;
+}

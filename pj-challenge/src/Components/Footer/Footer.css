@@ -1,0 +1,9 @@
+
+.footer{
+background-color:lightgrey;
+height: 9vh;    
+opacity: 0.8;
+display: flex;
+justify-content: center;
+align-items: center;
+}
